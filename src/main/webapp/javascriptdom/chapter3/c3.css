@@ -1,0 +1,35 @@
+/*全局样式*/
+p {
+    color: yellow;
+    font-family: "arial",sans-serif;
+    font-size: 1.2em;
+}
+
+body {
+    color: white;
+    background-color: black;
+}
+
+
+/*class属性*/
+.special {
+    font-style: italic;
+}
+
+/*某个元素样式*/
+h2.special {
+    text-transform: uppercase;
+}
+
+/*id属性*/
+#purchases {
+    border: 1px solid white;
+    background-color: #333;
+    color: #ccc;
+    padding: 1em;
+}
+
+/*子元素样式*/
+#purchases li {
+    font-weight: bold;
+}
