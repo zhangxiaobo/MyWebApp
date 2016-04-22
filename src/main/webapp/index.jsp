@@ -17,7 +17,7 @@
 <a href="javascriptdom/chapter4/page.html">chapter4</a> <br>
 <a href="javascriptdom/chapter6/page.html">chapter6</a> <br>
 <a href="javascriptdom/chapter7/page.html">chapter7</a> <br>
-
+<a href="javascriptdom/chapter9/page.html">chapter9</a> <br>
 
 
 </body>
