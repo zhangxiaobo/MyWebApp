@@ -34,3 +34,25 @@ th,td {
     width: 10em;
     padding: .5em;
 }
+
+/*
+tr:nth-child(odd) {
+    background-color: #ffc
+}
+
+tr:nth-child(even) {
+    background-color: #fff;
+}*/
+
+tr:hover {
+    font-weight: bold;
+}
+
+.intro {
+    font-weight: bold;
+    font-size: 1.4em;
+}
+
+.odd {
+    background-color: #ffc;
+}
