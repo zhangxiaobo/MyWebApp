@@ -21,7 +21,7 @@
 <a href="javascriptdom/chapter10/page.html">chapter10</a> <br>
 
 <p>1</p>
-
+<p>2</p>
 
 </body>
 </html>
