@@ -72,7 +72,7 @@ function getHTTPObject() {
 function getNewContent() {
     var request = getHTTPObject();
     if (request) {
-        request.open("GET", "example.txt", true);//example.txt, rose.gif 测试文件
+        request.open("GET", "example.txt", true);//example.txt, avatar.gif 测试文件
         request.onreadystatechange = function () {
             if (request.readyState == 4) {
                 var para = document.createElement("p");
