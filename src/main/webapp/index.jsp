@@ -20,9 +20,9 @@
 <a href="javascriptdom/chapter9/page.html">chapter9</a> <br>
 <a href="javascriptdom/chapter10/page.html">chapter10</a> <br>
 
-<p>newdeve111</p>
-<p>newdeve222</p>
-<p>newdeve333</p>
+<p>master111</p>
+<p>master222</p>
+<p>master333</p>
 
 </body>
 </html>
