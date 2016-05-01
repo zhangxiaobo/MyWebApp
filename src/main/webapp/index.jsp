@@ -20,6 +20,7 @@
 <a href="javascriptdom/chapter9/page.html">chapter9</a> <br>
 <a href="javascriptdom/chapter10/page.html">chapter10</a> <br>
 <a href="javascriptdom/chapter11/grayscale.html">chapter11</a> <br>
+<a href="javascriptdom/chapter112/movie.html">chapter112</a> <br>
 
 <p>1</p>
 <p>2</p>
