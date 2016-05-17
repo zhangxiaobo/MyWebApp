@@ -1,0 +1,13 @@
+/*table {*/
+    /*margin: auto;*/
+    /*border: 1px solid #699;*/
+/*}*/
+
+th {
+    font-weight: normal;
+    font-style: italic;
+    text-align: left;
+    border: 1px dotted #699;
+    background-color: #9cc;
+    color: #000;
+}
